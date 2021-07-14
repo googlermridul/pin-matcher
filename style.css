@@ -91,7 +91,7 @@ body {
    top: 20px;
    left: 0;
    position: absolute;
-   background: url(../img/layer-bg.png);
+   background: url(img/layer-bg.png);
    z-index: 1;
 }
 
